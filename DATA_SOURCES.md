@@ -1,4 +1,4 @@
-# 데이터와 사진 출처
+﻿# 데이터와 사진 출처
 
 확인일: **2026-10-27**. 수록 범위는 전라남도 여수·담양·목포의 12곳입니다. 전남 전체를 포괄하는 관광 DB가 아닌 MVP 표본입니다.
 
@@ -43,101 +43,102 @@
 
 ### JN01 오동도 (여수)
 
-- ????: https://yeosu.go.kr/tour/travel/10tour/odongdo
-- ??: [data/images/01.jpg](https://commons.wikimedia.org/wiki/File:Yeosu_Odongdo_20180929_002.jpg)
-- ???: Mobius6
-- ????: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
-- ??: ?? ???JPEG ??
+- 관광정보: https://yeosu.go.kr/tour/travel/10tour/odongdo
+- 사진: [data/images/01.jpg](https://commons.wikimedia.org/wiki/File:Yeosu_Odongdo_20180929_002.jpg)
+- 저작자: Mobius6
+- 라이선스: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- 변경: 크기 축소·JPEG 변환
 
 ### JN02 향일암 (여수)
 
-- ????: https://yscms.yeosu.go.kr/tour?main=true
-- ??: [data/images/02.jpg](https://commons.wikimedia.org/wiki/File:Dragon_in_Hyangiram.jpg)
-- ???: Smiley.toerist
-- ????: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
-- ??: ?? ???JPEG ??
+- 관광정보: https://yscms.yeosu.go.kr/tour?main=true
+- 사진: [data/images/02.jpg](https://commons.wikimedia.org/wiki/File:Dragon_in_Hyangiram.jpg)
+- 저작자: Smiley.toerist
+- 라이선스: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- 변경: 크기 축소·JPEG 변환
 
 ### JN03 진남관 (여수)
 
-- ????: https://yscms.yeosu.go.kr/tour?main=true
-- ??: [data/images/03.jpg](https://commons.wikimedia.org/wiki/File:%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80.jpg)
-- ???: Unknown authorUnknown author
-- ????: [Public domain](https://commons.wikimedia.org/wiki/Commons:Licensing)
-- ??: ?? ???JPEG ??
+- 관광정보: https://yscms.yeosu.go.kr/tour?main=true
+- 사진: [data/images/03.jpg](https://commons.wikimedia.org/wiki/File:%EC%97%AC%EC%88%98%EC%A7%84%EB%82%A8%EA%B4%80.jpg)
+- 저작자: Unknown authorUnknown author
+- 라이선스: [Public domain](https://commons.wikimedia.org/wiki/Commons:Licensing)
+- 변경: 크기 축소·JPEG 변환
 
 ### JN04 돌산대교 (여수)
 
-- ????: https://www.yeosu.go.kr/tour/my_tour/re_course/recommend_course
-- ??: [data/images/04.jpg](https://commons.wikimedia.org/wiki/File:Dolsan_Bridge2.jpg)
-- ???: pcamp
-- ????: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-- ??: ?? ???JPEG ??
+- 관광정보: https://www.yeosu.go.kr/tour/my_tour/re_course/recommend_course
+- 사진: [data/images/04.jpg](https://commons.wikimedia.org/wiki/File:Dolsan_Bridge2.jpg)
+- 저작자: pcamp
+- 라이선스: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+- 변경: 크기 축소·JPEG 변환
 
 ### JN05 죽녹원 (담양)
 
-- ????: https://www.damyang.go.kr/index.damyang?menuCd=DOM_000000103001000000
-- ??: [data/images/05.jpg](https://commons.wikimedia.org/wiki/File:Damyang_Jungnogwon_(3).jpg)
-- ???: Christian Bolz (크리스티안 볼츠)
-- ????: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
-- ??: ?? ???JPEG ??
+- 관광정보: https://www.damyang.go.kr/index.damyang?menuCd=DOM_000000103001000000
+- 사진: [data/images/05.jpg](https://commons.wikimedia.org/wiki/File:Damyang_Jungnogwon_(3).jpg)
+- 저작자: Christian Bolz (크리스티안 볼츠)
+- 라이선스: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- 변경: 크기 축소·JPEG 변환
 
 ### JN06 메타세쿼이아길 (담양)
 
-- ????: https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=cdedf0c6-f90e-4108-83a1-f4b2fe8db30a
-- ??: [data/images/06.jpg](https://commons.wikimedia.org/wiki/File:Damyang_Metasequoia_Road_2.JPG)
-- ???: hyolee2
-- ????: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
-- ??: ?? ???JPEG ??
+- 관광정보: https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=cdedf0c6-f90e-4108-83a1-f4b2fe8db30a
+- 사진: [data/images/06.jpg](https://commons.wikimedia.org/wiki/File:Damyang_Metasequoia_Road_2.JPG)
+- 저작자: hyolee2
+- 라이선스: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+- 변경: 크기 축소·JPEG 변환
 
 ### JN07 관방제림 (담양)
 
-- ????: https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=cdedf0c6-f90e-4108-83a1-f4b2fe8db30a
-- ??: [data/images/07.jpg](https://commons.wikimedia.org/wiki/File:%EA%B4%80%EB%B0%A9%EC%A0%9C%EB%A6%BC.JPG)
-- ???: Dalgial
-- ????: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
-- ??: ?? ???JPEG ??
+- 관광정보: https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=cdedf0c6-f90e-4108-83a1-f4b2fe8db30a
+- 사진: [data/images/07.jpg](https://commons.wikimedia.org/wiki/File:%EA%B4%80%EB%B0%A9%EC%A0%9C%EB%A6%BC.JPG)
+- 저작자: Dalgial
+- 라이선스: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+- 변경: 크기 축소·JPEG 변환
 
 ### JN08 소쇄원 (담양)
 
-- ????: https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=cdedf0c6-f90e-4108-83a1-f4b2fe8db30a
-- ??: [data/images/08.jpg](https://commons.wikimedia.org/wiki/File:Soswaewon_1.jpg)
-- ???: Kim Dae Jeung
-- ????: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)
-- ??: ?? ???JPEG ??
+- 관광정보: https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=cdedf0c6-f90e-4108-83a1-f4b2fe8db30a
+- 사진: [data/images/08.jpg](https://commons.wikimedia.org/wiki/File:Soswaewon_1.jpg)
+- 저작자: Kim Dae Jeung
+- 라이선스: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- 변경: 크기 축소·JPEG 변환
 
 ### JN09 유달산 (목포)
 
-- ????: https://munhak.mokpo.go.kr/tour/attraction/nineplace/yudalsan
-- ??: [data/images/09.jpg](https://commons.wikimedia.org/wiki/File:Yudalsan_20180415_171946.jpg)
-- ???: Matt872000
+- 관광정보: https://munhak.mokpo.go.kr/tour/attraction/nineplace/yudalsan
+- 사진: [data/images/09.jpg](https://commons.wikimedia.org/wiki/File:Yudalsan_20180415_171946.jpg)
+- 저작자: Matt872000
 
  This photo was taken with Nikon D5300
-- ????: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
-- ??: ?? ???JPEG ??
+- 라이선스: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- 변경: 크기 축소·JPEG 변환
 
 ### JN10 갓바위 (목포)
 
-- ????: https://www.mokpo.go.kr/tour
-- ??: [data/images/10.jpg](https://commons.wikimedia.org/wiki/File:Korea-Mokpo_Gatbawi_11-01716.JPG)
-- ???: Steve46814
-- ????: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
-- ??: ?? ???JPEG ??
+- 관광정보: https://www.mokpo.go.kr/tour
+- 사진: [data/images/10.jpg](https://commons.wikimedia.org/wiki/File:Korea-Mokpo_Gatbawi_11-01716.JPG)
+- 저작자: Steve46814
+- 라이선스: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+- 변경: 크기 축소·JPEG 변환
 
 ### JN11 삼학도 (목포)
 
-- ????: https://tour.mokpo.go.kr/tour/theme/climb
-- ??: [data/images/11.jpg](https://commons.wikimedia.org/wiki/File:Mokpo_Harbour_festival_Samhakdo_in_2015_(3).jpg)
-- ???: Mar del Este
+- 관광정보: https://tour.mokpo.go.kr/tour/theme/climb
+- 사진: [data/images/11.jpg](https://commons.wikimedia.org/wiki/File:Mokpo_Harbour_festival_Samhakdo_in_2015_(3).jpg)
+- 저작자: Mar del Este
 
  This photo was taken with Samsung Galaxy S4
-- ????: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
-- ??: ?? ???JPEG ??
+- 라이선스: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- 변경: 크기 축소·JPEG 변환
 
 ### JN12 노적봉 (목포)
 
-- ????: https://munhak.mokpo.go.kr/tour/attraction/nineplace/yudalsan
-- ??: [data/images/12.jpg](https://commons.wikimedia.org/wiki/File:Yudalsan_Mokpo_Nojeokbong_peak.jpg)
-- ???: Mar del Este
-- ????: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
-- ??: ?? ???JPEG ??
+- 관광정보: https://munhak.mokpo.go.kr/tour/attraction/nineplace/yudalsan
+- 사진: [data/images/12.jpg](https://commons.wikimedia.org/wiki/File:Yudalsan_Mokpo_Nojeokbong_peak.jpg)
+- 저작자: Mar del Este
+- 라이선스: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- 변경: 크기 축소·JPEG 변환
+
 
