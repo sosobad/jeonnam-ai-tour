@@ -1,0 +1,9 @@
+# 핵심 화면 구성과 데이터 처리
+streamlit>=1.50,<2
+pandas>=2.2,<3
+# 선택 OpenAI 기능과 로컬 환경변수
+openai>=1.75,<4
+python-dotenv>=1.0,<2
+# 기존 자료 수집 도구 및 사진 검증
+requests>=2.32,<3
+Pillow>=10.4,<13
